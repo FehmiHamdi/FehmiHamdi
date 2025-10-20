@@ -47,7 +47,18 @@ Created a multilingual chatbot using FastAPI and OpenRouter API that provides pe
 ---
 
 ### 📫 Let’s Connect
+<p align="left">
+  <a href="mailto:hamdi.fehmi9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2e7d32?style=for-the-badge&width=100&logo=gmail&logoColor=white" />
+  </a>
+  </br>
+  <a href="https://www.linkedin.com/in/fehmi-hamdi">
+    <img src="https://img.shields.io/badge/LinkedIn-0ea5a4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-[Email](hamdi.fehmi9@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/fehmi-hamdi)  
 +216 99 622 691
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5a4,100:38bdf8&height=100&section=footer" />
+</p>
