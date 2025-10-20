@@ -8,13 +8,13 @@ I’m passionate about **Data Science**, **Machine Learning**, and exploring the
 ### 🧰 Tools & Technologies
 
 **Languages:**  
-Python • Java • C • C++ • PHP
+Python • Java • C • C++ • PHP • SQL
 
 **Libraries & Frameworks:**  
-Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
+Pandas • NumPy • Scikit-learn • TensorFlow • Streamlit • Plotly • Django • Laravel • FastAPI
 
 **Tools & Platforms:**  
-Jupyter Notebook • Git & GitHub • Kaggle • Hugging Face
+Jupyter Notebook • Power BI • Google Colab • Git & GitHub • Kaggle • Hugging Face
 
 ---
 
@@ -31,6 +31,11 @@ Jupyter Notebook • Git & GitHub • Kaggle • Hugging Face
 
 ### 🚀 Featured Projects
 
+- 📊 [Tunisian Stock Market Dashboard](https://github.com/FehmiHamdi/tunisian-stocks-dashboard):
+Developed a dynamic dashboard using Streamlit and Plotly to visualize and analyze Tunisian stock market data, including historical prices and trading volumes.
+
+- 🌱 [Noubaita – AI-Powered Plant Care Chatbot](https://github.com/FehmiHamdi/plantcare-chatbot):
+Created a multilingual chatbot using FastAPI and OpenRouter API that provides personalized plant care advice through a web interface, designed for e-commerce integration.
 - 🔍 [Housing Price Prediction](https://github.com/yourusername/Housing_Price_Regression): Linear regression to predict house prices based on various features.
 - 🧠 [KMeans Clustering of Housing Data](https://github.com/yourusername/Housing_Clustering_KMeans): Grouping housing data using unsupervised machine learning.
 
@@ -38,6 +43,6 @@ Jupyter Notebook • Git & GitHub • Kaggle • Hugging Face
 
 ### 📫 Let’s Connect
 
-[Email](hamdi.fehmi9@gmail.com)
+[Email](hamdi.fehmi9@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/fehmi-hamdi)  
 +216 99 622 691
