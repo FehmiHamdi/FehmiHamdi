@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5a4,100:38bdf8&height=250&section=header&text=Fehmi%20Hamdi%20%7C%20Software%20Engineer&fontColor=ffffff&fontSize=45&fontAlignY=40" />
+</p>
+
+
 # 👋 Hi there, I'm Fehmi Hamdi
 
 🎓 I'm a **Software Engineering student** at the *Higher Institute of Applied Science and Technology of Sousse*, Tunisia.  
