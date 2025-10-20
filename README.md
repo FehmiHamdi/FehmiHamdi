@@ -38,6 +38,6 @@ Jupyter Notebook • Git & GitHub • Kaggle • Hugging Face
 
 ### 📫 Let’s Connect
 
+[Email](hamdi.fehmi9@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/fehmi-hamdi)  
-[Hugging Face Profile (if available)]  
-[Portfolio (optional if you have one)]  
++216 99 622 691
