@@ -52,7 +52,7 @@ Created a multilingual chatbot using FastAPI and OpenRouter API that provides pe
     <img src="https://img.shields.io/badge/Email-2e7d32?style=for-the-badge&width=100&logo=gmail&logoColor=white" />
   </a>
   </br>
-  <a href="[https://www.linkedin.com/in/fehmi-hamdi](https://www.linkedin.com/in/fehmi-hamdi-4b67a02ba/)">
+  <a href="https://www.linkedin.com/in/fehmi-hamdi-4b67a02ba/">
     <img src="https://img.shields.io/badge/LinkedIn-0ea5a4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
